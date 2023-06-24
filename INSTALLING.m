@@ -1,6 +1,7 @@
-# Installing on Linux using packagecloud
+# Install on Linux using packagecloud
 
-[packagecloud](https://packagecloud.io) hosts [`git-lfs` packages](https://packagecloud.io/github/git-lfs) for popular Linux distributions with apt/deb and yum/rpm based package-managers.  Installing from packagecloud is reasonably straightforward and involves two steps:
+[packagecloud](https://packagecloud.io) hosts [`git-lfs` packages](https://packagecloud.io/github/git-lfs) for popular Linux distributions th apt/deb and yum/rpm based package-managers.  Installing from packagecloud is reasonabl
+tforward and involves two steps:
 
 ## 1. Adding the packagecloud repository
 
